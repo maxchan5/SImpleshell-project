@@ -26,6 +26,3 @@ void pause_cmd();           // pauses operation until "Enter" is pressed
 
 void run_cmd(char **args, int background, char *inputf, char *outputf, int append, char *shellpath);   // runs commands handled in child process
 
-// Name: Max Chan
-// Student ID: 29134
-// I acknowledge the DCU Academic Integrity Policy
