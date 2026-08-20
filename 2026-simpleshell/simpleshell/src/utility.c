@@ -162,7 +162,3 @@ void run_cmd(char **args, int background, char *inputf, char *outputf, int appen
   }
 }
 
-
-// Name: Max Chan
-// Student ID: 29134
-// I acknowledge the DCU Academic Integrity Policy
