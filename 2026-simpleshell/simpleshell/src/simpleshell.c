@@ -130,7 +130,3 @@ int main (int argc, char ** argv)
 
 return 0; //exits shell
 }
-
-// Name: Max Chan
-// Studen ID: 29134
-// I acknowledge the DCU Academic Integrity Policy
